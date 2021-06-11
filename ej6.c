@@ -14,4 +14,6 @@
 
 	es afiliado si lleva más de 6 meses usando el servicio del local
 
+	Finalmente informar el precio a pagar
+
 */
